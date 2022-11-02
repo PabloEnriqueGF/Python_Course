@@ -1,5 +1,5 @@
 # Python_Course
-Python module inside the Big Data Course
+Python module inside the Big Data Course.
 
 The language used is python.
 
