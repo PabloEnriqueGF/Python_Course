@@ -10,3 +10,5 @@ The topics covered in the exercises include:
   - Exceptions
   - Functions
   - ETL processes
+  - Loops
+  - Classes
