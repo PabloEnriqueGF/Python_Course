@@ -12,3 +12,6 @@ The topics covered in the exercises include:
   - ETL processes
   - Loops
   - Classes
+  - Libraries
+  - Prophet (time series)
+  - Numpy
